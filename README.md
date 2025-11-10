@@ -31,7 +31,7 @@ Me chamo Edmundo José Batista, tenho 53 anos e sou natural de Recife - PE. Conc
     title="HTML" 
     width="70px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/eddgh/personal-tech-icons/icons/svg/neo4j/neo4j-azul.svg" 
+    src="https://cdn.jsdelivr.net/gh/eddgh/personal-tech-icons/icons/svg/neo4j/neo4j-branco-azul.svg" 
 />
 
 <img 
