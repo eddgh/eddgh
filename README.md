@@ -102,7 +102,7 @@ Me chamo Edmundo José Batista, tenho 54 anos e sou natural de Recife - PE. Conc
     <td valign="top" width="50%">
       <img 
         alt="Geral Stats" 
-        src="https://github-readme-stats.vercel.app/api?username=Eddgh&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eddgh&theme=tokyonight" 
         width="100%"
       />
     </td>
