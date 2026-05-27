@@ -28,6 +28,14 @@ Me chamo Edmundo José Batista, tenho 54 anos e sou natural de Recife - PE. Conc
 <img 
     align="left" 
     alt="HTML"
+    title="AWS" 
+    width="70px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
     title="Neo4j" 
     width="70px" 
     style="padding-right: 10px;" 
